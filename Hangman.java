@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Hangman {
-    private static final String[] words = {"apple", "moscow", "orange", "mango"};
+    private static final String[] words = {"tbank", "moscow", "lyceum", "mango"};
     public static final int MAX_MISTAKES = 5;
 
     public static void main(String[] args) {
